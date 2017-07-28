@@ -1,0 +1,19 @@
+{
+  "name": "strassen_matrix_multiplier",
+  "version": "1.0.0",
+  "description": "matrix multiplication strassen method implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/*.js"
+  },
+  "keywords": [
+    "algorithms",
+    "strassen"
+  ],
+  "author": "nadun1indunil@gmail.com",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.7.0"
+  }
+}
